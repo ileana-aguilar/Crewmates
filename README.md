@@ -22,10 +22,7 @@ Users will be able to:
 
 # Here's how Crewmates looks:
 
-<img src="src/assets/crewmates.gif" title="crewmates gif" alt="crewmates gif">
-<video width="520" height="540" controls>
-  <source src="src/assets/crewmates.mp4" type="video/mp4">
-  </video>
+<div style="position: relative; padding-bottom: 92.3076923076923%; height: 0;"><iframe src="https://www.loom.com/embed/9bc4fc4df695400ca6ba86ef7a19b623?sid=491a336f-0bf3-4e28-9f5d-0c4c8340be02" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 # Getting started
 **Install dependencies**
