@@ -1,0 +1,11 @@
+.menu-item{
+    align-items: flex-start;
+    flex: 0 0 auto;
+    flex-direction: column;
+    justify-content: flex-start;
+    list-style: none;
+    margin: 0;
+    padding: 0 0 35px;
+    font-size: 1.5em;
+    font-weight: 600;
+  }
