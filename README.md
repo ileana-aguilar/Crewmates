@@ -22,7 +22,14 @@ Users will be able to:
 
 # Here's how Crewmates looks:
 
-<div style="position: relative; padding-bottom: 92.3076923076923%; height: 0;"><iframe src="https://www.loom.com/embed/9bc4fc4df695400ca6ba86ef7a19b623?sid=491a336f-0bf3-4e28-9f5d-0c4c8340be02" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/9bc4fc4df695400ca6ba86ef7a19b623">
+      <p>Library | Loom - 12 April 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/9bc4fc4df695400ca6ba86ef7a19b623">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9bc4fc4df695400ca6ba86ef7a19b623-with-play.gif">
+    </a>
+  </div>
 
 # Getting started
 **Install dependencies**
