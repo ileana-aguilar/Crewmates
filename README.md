@@ -23,6 +23,9 @@ Users will be able to:
 # Here's how Crewmates looks:
 
 <img src="src/assets/crewmates.gif" title="crewmates gif" alt="crewmates gif">
+<video width="520" height="540" controls>
+  <source src="src/assets/crewmates.mp4" type="video/mp4">
+  </video>
 
 # Getting started
 **Install dependencies**
