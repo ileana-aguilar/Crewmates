@@ -12,12 +12,12 @@ const Navbar = () => {
                 </Link>
             </li>
             <li className="menu-item" >
-                <Link to="/">
+                <Link to="/NewCreatemate">
                     Create a Crewmate!
                 </Link>
             </li>
             <li className="menu-item" >
-                <Link to="/">
+                <Link to="/Gallery">
                     Crewmate Gallery
                 </Link>
             </li>
